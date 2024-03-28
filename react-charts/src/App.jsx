@@ -14,7 +14,11 @@ const App = () => {
               {
                 label: "Revenue",
                 data: [200, 300, 400],
-              }
+              },
+              {
+                label: "Loss",
+                data: [90, 80, 70],
+              },
             ]
           }}
         />
